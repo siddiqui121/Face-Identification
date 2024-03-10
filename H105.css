@@ -1,0 +1,23 @@
+#camera{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects{
+    color: blue;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#background{
+    color: white;
+    background: pink;
+}
+p{
+    color:rgb(17, 88, 229);
+    font-weight: bold;
+}
+h3{
+    color: rgb(255, 111, 0);
+}
